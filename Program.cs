@@ -11,6 +11,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            /*
+             CONSIGNA: 
+             Una tienda al por mayor de manzanas hace un descuento mientras mas comprés.
+             Si compras menos de 100 kilos el precio es 4 euros.
+             Si compras entre 100 y 500 kilos el precio es 3 euros.
+             Si compras entre 500 y 1000 kilos el precio es 2 euros.
+             Si compras más de 1000 kilos el kilo sale 1 euro.
+             Haz un programa que calcule el precio según los kilos que compres. 
+             */
+            
             int kilos;
             int precio;
             int precioTotal;
